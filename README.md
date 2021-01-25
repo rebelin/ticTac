@@ -51,3 +51,6 @@ Player 2, please choose a cell: 8
 ```
 The game continues taking input from the users until one player wins or the board is full.
 
+Author
+------
+Rebecca Lin
